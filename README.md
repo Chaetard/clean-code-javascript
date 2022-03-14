@@ -643,7 +643,7 @@ function separarEnNombreYApellido(nombre) {
 }
 
 const nombre = 'Ryan McDermott';
-const nuevoNombre = separarEnNombreYApellidoe(nombre);
+const nuevoNombre = separarEnNombreYApellido(nombre);
 
 console.log(nombre); // 'Ryan McDermott';
 console.log(nuevoNombre); // ['Ryan', 'McDermott'];
