@@ -2348,7 +2348,7 @@ function combinar(a, b) {
 
 Normalmente acostumbran a ser molestos. Deja que las variables y las funciones
 hagan su función con sus identaciones naturales y de esta manera, formateen el
-có correctamente
+código correctamente
 .
 
 **🙅‍ Mal:**
