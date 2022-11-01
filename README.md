@@ -626,7 +626,7 @@ más feliz que la gran mayoría de otros programadores.
 // If we had another function that used this name, now it'd be an array and it could break it.
 let nombre = 'Ryan McDermott';
 
-function separarEnNombreYApellido) {
+function separarEnNombreYApellido() {
   nombre = nombre.split(' ');
 }
 
@@ -638,12 +638,12 @@ console.log(nombre); // ['Ryan', 'McDermott'];
 **👨‍🏫 Bien:**
 
 ```javascript
-function separarEnNombreYApellido) {
+function separarEnNombreYApellido(nombre) {
   return nombre.split(' ');
 }
 
 const nombre = 'Ryan McDermott';
-const nuevoNombre = separarEnNombreYApellidoe);
+const nuevoNombre = separarEnNombreYApellido(nombre);
 
 console.log(nombre); // 'Ryan McDermott';
 console.log(nuevoNombre); // ['Ryan', 'McDermott'];
