@@ -76,7 +76,7 @@ const fechaACtual = moment().format("YYYY/MM/DD");
 ```javascript
 conseguirInformacionUsuario();
 conseguirDatosCliente();
-conseguirRegistroCliente();)
+conseguirRegistroCliente();
 ```
 
 **👨‍🏫 Bien:**
