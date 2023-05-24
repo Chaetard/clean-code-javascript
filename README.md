@@ -1,3 +1,6 @@
+# ✨ Mejora como ingeniero de software
+Si quieres **mejorar como ingeniero de software** de seguro que te interesa **[mi nuevo canal de youtube](https://youtube.com/@devictoribero)!**
+
 # clean-code-javascript
 
 Este contenido no es original. está traducido de [aquí](https://github.com/ryanmcdermott/clean-code-javascript).
