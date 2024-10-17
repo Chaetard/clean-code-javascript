@@ -1453,7 +1453,7 @@ class UserSettings {
 ### Principio de abierto/cerrado (OCP)
 
 Citado por Bertrand Meyer: _"Las entidades de software (clases, módulos, funciones, ...)
-deberían estar abiertas a extensión pere cerradas a modificación."_ ¿Qué significa esto?
+deberían estar abiertas a extensión pero cerradas a modificación."_ ¿Qué significa esto?
 Básicamente significa que los usuarios deberían de ser capaces de añadir funcionalidad
 a la aplicación sin tener que tocar el código creado hasta ahora.
 
